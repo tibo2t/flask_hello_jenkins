@@ -4,4 +4,3 @@ venv
 Dockerfile
 values.yaml
 values2.yaml
-Jenkinsfile
